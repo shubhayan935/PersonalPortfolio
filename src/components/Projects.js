@@ -26,7 +26,7 @@ const Projects = () => {
         <ProjectCard 
           title="Personal Empathetic AI Assistant App | FullStack AI iOS Application"
           image="tone_screenshot.png"
-          description="Innovative iOS app that enhances productivity and emotional well-being by utilizing a sophisticated empathetic AI bot with long-term memory capabilities and calendar and notion integrations. It integrates seamlessly with Google Calendar and Notion to manage schedules and set reminders automatically, fostering an organized and efficient daily routine. Through continuous user feedback and data-driven refinements, this app provides a personalized and empathetic user experience, making it more than just a tool but a companion in daily life."
+          description="Innovative iOS app that enhances productivity and emotional well-being by utilizing a sophisticated empathetic AI bot with long-term memory capabilities and Calendar and Notion integrations. It integrates seamlessly with Google Calendar and Notion to manage schedules and set reminders automatically, fostering an organized and efficient daily routine. Through continuous user feedback and data-driven refinements, this app provides a personalized and empathetic user experience, making it more than just a tool but a companion in daily life."
           highlight="Currently used by local governments across 15 cities."
           tech={['SwiftUI', 'OpenAI', 'Pinecone', 'Flask', 'Python', 'Firebase']}
           link="https://github.com/shubhayan935/PersonalAssistant-iOS/"
