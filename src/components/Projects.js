@@ -26,7 +26,7 @@ const Projects = () => {
         <ProjectCard 
           title="Personal Empathetic AI Assistant App | FullStack AI iOS Application"
           image="tone_screenshot.png"
-          description="Search-driven air pollution analytics tool. I built an AI analytics agent that users can chat with to analyze and simulate potential solutions to air pollution, thus finding the optimal solution before wasting any resources in the traditional 'hit and trial' methods."
+          description="Tone is an innovative iOS app that enhances productivity and emotional well-being by utilizing a sophisticated AI bot with long-term memory capabilities, developed using SwiftUI and OpenAI's RAG model. It integrates seamlessly with Google Calendar to manage schedules and set reminders automatically, fostering an organized and efficient daily routine. Through continuous user feedback and data-driven refinements, Tone provides a personalized and empathetic user experience, making it more than just a tool but a companion in daily life."
           highlight="Currently used by local governments across 15 cities."
           tech={['SwiftUI', 'OpenAI', 'Pinecone', 'Flask', 'Python', 'Firebase']}
           link="https://github.com/shubhayan935/PersonalAssistant-iOS/"
