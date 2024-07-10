@@ -18,7 +18,7 @@ const Projects = () => {
         <ProjectCard 
           title="Hera | FullStack AI Web Application"
           image="hera_screenshot.png"
-          description="Search-driven air pollution analytics tool. I built an AI analytics agent that users can chat with to analyze and simulate potential solutions to air pollution, thus finding the optimal solution before wasting any resources in the traditional 'hit and trial' methods."
+          description="Search-driven air pollution analytics tool. I built an AI analytics agent that users can chat with to analyze and simulate potential solutions to air pollution, thus finding the optimal solution before wasting any resources in the traditional 'hit and trial' methods. Employed advanced analytics techniques like synthetic data augmentation and Kriging."
           highlight="Currently used by local governments across 15 cities."
           tech={['React.js', 'OpenAI', 'Docker', 'Flask', 'LangChain', 'Firebase']}
           link="https://heradashboard.vercel.app"
@@ -28,7 +28,7 @@ const Projects = () => {
           image="tone_screenshot.png"
           description="Innovative iOS app that enhances productivity and emotional well-being by utilizing a sophisticated empathetic AI bot with long-term memory capabilities and Calendar and Notion integrations. It integrates seamlessly with Google Calendar and Notion to manage schedules and set reminders automatically, fostering an organized and efficient daily routine. Through continuous user feedback and data-driven refinements, this app provides a personalized and empathetic user experience, making it more than just a tool but a companion in daily life."
           highlight="Currently used by local governments across 15 cities."
-          tech={['SwiftUI', 'OpenAI', 'Pinecone', 'Flask', 'Python', 'Firebase']}
+          tech={['SwiftUI', 'OpenAI', 'Pinecone', 'Flask', 'Python', 'Firebase', 'GCal & Notion APIs']}
           link="https://github.com/shubhayan935/PersonalAssistant-iOS/"
         />
       </div>
