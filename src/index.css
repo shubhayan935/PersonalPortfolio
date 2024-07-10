@@ -383,9 +383,12 @@ body {
 }
 
 .project-highlight {
-  font-size: 1em;
+  font-size: 1.2em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   margin-bottom: 20px;
-  color: #ccc;
+  color: #ffffff;
 }
 
 .project-tech {
