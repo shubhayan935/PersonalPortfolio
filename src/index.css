@@ -369,6 +369,25 @@ body {
   margin-bottom: 10px;
 }
 
+.view-demo {
+  position: relative;
+  right: 10px;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 1.1em;
+}
+
+.view-demo a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.view-demo a:hover {
+  text-decoration: underline;
+}
+
 .project-thumbnail {
   height: 300px;
   background-size: contain; /* Use contain to prevent cropping */
